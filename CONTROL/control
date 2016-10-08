@@ -1,0 +1,8 @@
+Package: enigma2-plugin-extensions-mySettings
+Version: 20161008
+Description: mySettings 1.0
+Section: base
+Architecture: mipsel
+Priority: optional
+Maintainer: Undertaker
+License: unknown

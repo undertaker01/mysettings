@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "**************************************************"
+echo "* Uninstall enigma2-plugin-extensions-mySettings  *"
+echo "**************************************************"
