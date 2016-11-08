@@ -1,4 +1,4 @@
 #!/bin/sh
 echo "**************************************************"
-echo "* Successfully removed mySettings!               *"
+echo "* Successfully removed mysettings!               *"
 echo "**************************************************"
