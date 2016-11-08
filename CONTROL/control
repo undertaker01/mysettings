@@ -1,5 +1,5 @@
-Package: enigma2-plugin-extensions-mySettings
-Version: 20161008
+Package: enigma2-plugin-extensions-mysettings
+Version: 20161108
 Description: mySettings 1.0
 Section: base
 Architecture: mipsel
