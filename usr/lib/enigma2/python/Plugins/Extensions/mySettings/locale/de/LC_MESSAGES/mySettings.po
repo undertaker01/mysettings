@@ -1,0 +1,516 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-10-08 17:41+0200\n"
+"PO-Revision-Date: 2016-10-08 17:41+0200\n"
+"Last-Translator: Undertaker <undertaker@undertaker.dyndns.tv>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: plugin2.py\n"
+
+#: plugin2.py:44 plugin2.py:45 plugin2.py:46 plugin2.py:47 plugin2.py:48
+#: plugin2.py:49 plugin2.py:50 plugin2.py:51 plugin2.py:52 plugin2.py:53
+#: plugin2.py:54 plugin2.py:55 plugin2.py:56 plugin2.py:57
+msgid "No"
+msgstr "Nein"
+
+#: plugin2.py:44 plugin2.py:45 plugin2.py:46 plugin2.py:47 plugin2.py:48
+#: plugin2.py:49 plugin2.py:50 plugin2.py:51 plugin2.py:52 plugin2.py:53
+#: plugin2.py:54 plugin2.py:55 plugin2.py:56 plugin2.py:57
+msgid "Yes"
+msgstr "Ja"
+
+#: plugin2.py:59 plugin2.py:104
+msgid "Free TV HD"
+msgstr "FreeTV"
+
+#: plugin2.py:60 plugin2.py:105
+msgid "HD +"
+msgstr "HD +"
+
+#: plugin2.py:61 plugin2.py:106
+msgid "Sky Germany"
+msgstr "Sky Germany"
+
+#: plugin2.py:62 plugin2.py:107
+msgid "Sky Bundesliga"
+msgstr "Sky Bundesliga"
+
+#: plugin2.py:63 plugin2.py:108
+msgid "Sky Sport"
+msgstr "Sky Sport"
+
+#: plugin2.py:64 plugin2.py:109
+msgid "Sky Select"
+msgstr "Sky Select"
+
+#: plugin2.py:65 plugin2.py:110
+msgid "ORF"
+msgstr "ORF"
+
+#: plugin2.py:66 plugin2.py:111
+msgid "Childrens"
+msgstr "Kinder"
+
+#: plugin2.py:67 plugin2.py:112
+msgid "Shopping"
+msgstr "Einkaufen"
+
+#: plugin2.py:68
+msgid "Adult 19E"
+msgstr "Erotic 19°E"
+
+#: plugin2.py:69 plugin2.py:114
+msgid "Schweiz 13E"
+msgstr "Schweiz 13E"
+
+#: plugin2.py:70
+msgid "Adult 13"
+msgstr "Erotic 13°E"
+
+#: plugin2.py:77
+msgid "delete your old mySettings or append"
+msgstr "lösche deine Settings"
+
+#: plugin2.py:78 plugin2.py:118
+msgid "update Radio Settings"
+msgstr "update Radio Listen"
+
+#: plugin2.py:101
+msgid "Setup"
+msgstr "Einstellungen"
+
+#: plugin2.py:113
+msgid "Adult"
+msgstr "Erotic 19°E"
+
+#: plugin2.py:115
+msgid "Adult 13E"
+msgstr "Erotic 13°E"
+
+#: plugin2.py:117
+msgid "delete your old Settings"
+msgstr "lösche deine Settings"
+
+#: plugin2.py:148
+msgid ""
+"mySettings install finished\n"
+"have fun"
+msgstr ""
+"Installation abgeschlossen\n"
+"Viel Spass"
+
+#: plugin2.py:148
+msgid "done"
+msgstr "Erledigt"
+
+#: plugin2.py:223
+msgid "mySettings tool for Enigma2"
+msgstr "Kanallisten für Enigma2 Einstellungen"
+
+#~ msgid "mySettings starter"
+#~ msgstr "my Settings Einstellungen:"
+
+#~ msgid "HdPlus"
+#~ msgstr "HdPlus"
+
+#~ msgid "SkyDe"
+#~ msgstr "SkyDe"
+
+#~ msgid "Download not avaible"
+#~ msgstr "Download nicht verfügbar"
+
+#~ msgid "no installed Settings found"
+#~ msgstr "no installed Settings found"
+
+#~ msgid "Configuration tool for OScam"
+#~ msgstr "Konfigurationstool für OScam"
+
+#~ msgid "83"
+#~ msgstr "83 (empfohlen)"
+
+#~ msgid "8888"
+#~ msgstr "8888 (standard)"
+
+#~ msgid "CI+ V13"
+#~ msgstr "ja, CI+ Modul mit V13 Karte"
+
+#~ msgid "CI+ V14"
+#~ msgstr "ja, CI+ Modul mit V14 Karte"
+
+#~ msgid "None"
+#~ msgstr "Keine"
+
+#~ msgid ""
+#~ "INFORMATION: make your selection and press GREEN\n"
+#~ "All config files are backed up automatically"
+#~ msgstr ""
+#~ "INFORMATION:  Auswahl treffen und Start wählen. Fertig.\n"
+#~ "evt. vorhandene oscam config  Dateien werden gesichert.\n"
+#~ "Wenn eine CCcam.cfg  in /etc liegt kann diese  importiert \n"
+#~ "werden und Oscam wird automatisch angepasst."
+
+#~ msgid "Error"
+#~ msgstr "Fehler"
+
+#~ msgid "Your STB is not connected to the Internet"
+#~ msgstr ""
+#~ "Entweder ist die Box nicht mit dem Internet verbunden\n"
+#~ "oder der Server ist nicht erreichbar."
+
+#~ msgid "press color button or lame for exit"
+#~ msgstr "Drücken Sie Exit oder eine farbige Taste."
+
+#~ msgid "Unsupportet CPU"
+#~ msgstr "nicht unterstützte CPU"
+
+#~ msgid "found"
+#~ msgstr "gefunden"
+
+#~ msgid "OScam can not be installed"
+#~ msgstr "OScam kann nicht installiert werden"
+
+#~ msgid "valueless Softam found."
+#~ msgstr "störende(s) Softam gefunden"
+
+#~ msgid ""
+#~ "Remove all first.\n"
+#~ "otherwise Oscamsmartcard will not start"
+#~ msgstr ""
+#~ "Entferne zuerst alle unnötigen störenden SoftCams\n"
+#~ "Andernfalls wird Oscamsmartcard nicht starten"
+
+#~ msgid "Press GREEN to remove all"
+#~ msgstr "Wähle GRÜN zum entfernen"
+
+#~ msgid "Config path set automatically to"
+#~ msgstr "Config Pfad eingestellt auf"
+
+#~ msgid "Camstart set automatically to"
+#~ msgstr "Camstart eingestellt auf"
+
+#~ msgid "Oscam type set automatically to"
+#~ msgstr "Oscam Typ gesetzt als"
+
+#~ msgid "Cardreader found automatically"
+#~ msgstr "Kartenleser gefunden"
+
+#~ msgid "Select OScam WebifPort:"
+#~ msgstr "OScam WebifPort auswählen:"
+
+#~ msgid ""
+#~ "INFORMATION: Select OScam WebifPort\n"
+#~ "Oscam Webif will be accessible on the selected port."
+#~ msgstr ""
+#~ "INFORMATION: OScam Webif Port auswählen\n"
+#~ "Die Weboberfläche von Oscam kann mit einem beliebigem Browser unter folgenden Adressen aufgerufen werden"
+
+#~ msgid "or"
+#~ msgstr "oder"
+
+#~ msgid "Internal Reader /dev/sci0:"
+#~ msgstr "Interner Kartenleser /dev/sci0:"
+
+#~ msgid ""
+#~ "INFORMATION: Internal Reader /dev/sci0\n"
+#~ "\n"
+#~ "All STB's having only one cardslot.\n"
+#~ "On STB's having two cardslots it is mostly the lower cardslot."
+#~ msgstr ""
+#~ "INFORMATION: für Boxen mit  1 oder 2 Kartenlesern\n"
+#~ "Auf Boxen die zwei Kartenleser haben,\n"
+#~ "ist es immer der untere Kartenleser.\n"
+#~ "Karte mit Chip nach unten voraus einstecken."
+
+#~ msgid "Internal Reader /dev/sci1:"
+#~ msgstr "Interner Kartenleser /dev/sci1:"
+
+#~ msgid ""
+#~ "INFORMATION: Internal Reader /dev/sci1\n"
+#~ "\n"
+#~ "On STB's having two cardslots it is mostly the upper cardslot."
+#~ msgstr ""
+#~ "INFORMATION: für Boxen mit 2 Kartenlesern\n"
+#~ "Auf Boxen die zwei Kartenleser haben,\n"
+#~ "ist es immer der obere Kartenleser.\n"
+#~ "Karte mit Chip nach unten voraus einstecken."
+
+#~ msgid "External Reader /dev/ttyUSB0:"
+#~ msgstr "Externer Kartenleser /dev/ttyUSB0:"
+
+#~ msgid ""
+#~ "INFORMATION: External Reader /dev/ttyUSB0\n"
+#~ "\n"
+#~ "This Reader can be used to configure for example a connected easymouse."
+#~ msgstr ""
+#~ "INFORMATION: Externer Kartenleser /dev/ttyUSB0\n"
+#~ "Dieser Reader kann benutzt werden um zum Beispiel eine angeschlossene Easymouse zu konfigurieren."
+
+#~ msgid "External Reader /dev/ttyUSB1:"
+#~ msgstr "Externer Kartenleser /dev/ttyUSB1:"
+
+#~ msgid ""
+#~ "INFORMATION: External Reader /dev/ttyUSB1\n"
+#~ "\n"
+#~ "This Reader can be used to configure for example a second connected easymouse."
+#~ msgstr ""
+#~ "INFORMATION: Externer Kartenleser /dev/ttyUSB1\n"
+#~ "Dieser Reader kann benutzt werden um zum Beispiel eine zweite angeschlossene Easymouse zu konfigurieren."
+
+#~ msgid "CCcam.cfg found. Import your settings"
+#~ msgstr "Importiere deine  CCcam Einstellungen"
+
+#~ msgid "Oscamsmartcard found "
+#~ msgstr "Oscamsmartcard fand "
+
+#~ msgid " Server and "
+#~ msgstr " Server und "
+
+#~ msgid "Oscam binary install"
+#~ msgstr "Oscam binary installieren"
+
+#~ msgid "install or update to the latest version"
+#~ msgstr ""
+#~ "Installiere das wichtigste. Das Oscam Binary\n"
+#~ "Die Nutztung solcher Programme ist illegal."
+
+#~ msgid "installed"
+#~ msgstr "installiert"
+
+#~ msgid "online avaible"
+#~ msgstr "online verfügbar"
+
+#~ msgid "Install oscam EMU Version:"
+#~ msgstr "Oscam Emu Version installieren:"
+
+#~ msgid ""
+#~ "INFORMATION: install Oscam Emu Version\n"
+#~ "\n"
+#~ "Softcam.key included"
+#~ msgstr ""
+#~ "INFORMATION: installiere die Oscam Emu Version\n"
+#~ "Eine einfache  Softcam.key wird mitinstalliert."
+
+#~ msgid "Is a Ci+ Module installed:"
+#~ msgstr "Ist ein CI+ Modul installiert"
+
+#~ msgid ""
+#~ "INFORMATION: please select your CI+ Modul\n"
+#~ "\n"
+#~ msgstr ""
+#~ "Informationen: Falls Sie ein CI + Modul installiert haben\n"
+#~ "wählen Sie hier die richtige Sky Smartcard aus.\n"
+#~ "Die CAID wird dann von OScam ignoriert und \n"
+#~ "nur über das CI+ Modul mit Sky Karte decodiert.\n"
+
+#~ msgid ""
+#~ "All Softcams will be deinstalled\n"
+#~ "Are you sure ?"
+#~ msgstr ""
+#~ "Alle unnötige Softcams werden entfernt.\n"
+#~ "Starte bitte das Plugin danach erneut.\n"
+#~ "Bist du sicher ?"
+
+#~ msgid "System cleaning"
+#~ msgstr "System bereinigen"
+
+#~ msgid "Oscam will be installed with the following settings"
+#~ msgstr "Oscam wird mit folgenden Einstellungen installiert"
+
+#~ msgid "no PayTV Card"
+#~ msgstr "keine PayTV Karte"
+
+#~ msgid "yes"
+#~ msgstr "Ja"
+
+#~ msgid "no"
+#~ msgstr "nein"
+
+#~ msgid "file already exists and use it"
+#~ msgstr "Datei existiert und wird verwendet"
+
+#~ msgid "file exists, becomes upgrade"
+#~ msgstr "datei existiert, wird aber aktualisiert"
+
+#~ msgid "will be installed"
+#~ msgstr "wird installiert"
+
+#~ msgid "Are the settings correct ?"
+#~ msgstr "Sind die Einstellungen richtig ?"
+
+#~ msgid "check your settings"
+#~ msgstr "Überprüfe die Einstellungen"
+
+#~ msgid ""
+#~ "Oscam is not running\n"
+#~ "unknown OS"
+#~ msgstr "Oscam läuft nicht. Unbekanntes System"
+
+#~ msgid ""
+#~ "Oscam Binary is not installed\n"
+#~ "You must this install"
+#~ msgstr ""
+#~ "Das Oscam Binary wurde nicht gewählt\n"
+#~ "Dies wird aber benötigt"
+
+#~ msgid "wrong Settings detected"
+#~ msgstr "ungültige Einstellungen"
+
+#~ msgid "Error creating oscam.server!"
+#~ msgstr "Fehler beim erstellen von oscam.server!"
+
+#~ msgid "Error creating oscam.dvbapi!"
+#~ msgstr "Fehler beim erstellen von oscam.dvbapi!"
+
+#~ msgid "Error creating oscam.user!"
+#~ msgstr "Fehler beim erstellen von oscam.user!"
+
+#~ msgid "Error creating oscam.conf!"
+#~ msgstr "Fehler beim erstellen von oscam.conf!"
+
+#~ msgid "Error creating oscam.services!"
+#~ msgstr "Fehler beim erstellen von oscam.services!"
+
+#~ msgid "Error creating oscam camstart files!"
+#~ msgstr "Fehler beim erstellen des Camstarts!"
+
+#~ msgid ""
+#~ "Do you really want to remove all\n"
+#~ "oscam_smartcard configs, binary's and camstartfiles.\n"
+#~ "A backup will be created\n"
+#~ "Please restart this plugin again!!"
+#~ msgstr ""
+#~ "Alle Oscam Einstellungen und das Binary werden gelöscht.\n"
+#~ "Zuvor wird ein Backup der Konfigurationsdateien erstellt.\n"
+#~ "Empfohlen für eine saubere Neuinstallation\n"
+#~ "Starte das Plugin anschließend neu"
+
+#~ msgid "remove current config"
+#~ msgstr "entferne Oscam Einstellungen"
+
+#~ msgid "update oscamsmartcard code"
+#~ msgstr "update oscamsmartcard code"
+
+#~ msgid "update Redlight HD Card"
+#~ msgstr "update Redlight HD Card"
+
+#~ msgid "added ORF ICE p410 Card"
+#~ msgstr "ORF ICE p410 0D98 Karte hinzugefügt"
+
+#~ msgid "remove reboot from oscamsmartcard"
+#~ msgstr "reboot Menu in Oscamsmartcard entfernt"
+
+#~ msgid "this info added"
+#~ msgstr "Diese Information hinzugefügt"
+
+#~ msgid "added SRG V6 Card"
+#~ msgstr "SRG V6 Karte hinzugefügt"
+
+#~ msgid "added CI+"
+#~ msgstr "CI+ Menu  hinzugefügt"
+
+#~ msgid "added default Reader 357 Mhz"
+#~ msgstr "default Reader 357 Mhz  hinzugefügt"
+
+#~ msgid "oscamsmartcard starter"
+#~ msgstr "Oscamsmartcard News"
+
+#~ msgid "is installed"
+#~ msgstr "ist installiert"
+
+#~ msgid "file is not readable"
+#~ msgstr "Datei ist nicht lesbar"
+
+#~ msgid "x"
+#~ msgstr "x"
+
+#~ msgid "Warning"
+#~ msgstr "Warnung"
+
+#~ msgid "Press OK"
+#~ msgstr "wähle OK"
+
+#~ msgid "clean up"
+#~ msgstr "Aufräumen"
+
+#~ msgid "added EMU oATV only"
+#~ msgstr "Oscam Emu hinzugefügt (OpenATV only)"
+
+#~ msgid "Oscam is now running"
+#~ msgstr "OscamSmartcard is gestartet"
+
+#, fuzzy
+#~ msgid "News:"
+#~ msgstr "Nachrichten/Aktuelles Tagesgeschehen"
+
+#~ msgid "Information"
+#~ msgstr ""
+#~ "INFORMATION: Wähle hier den OScam WebifPort aus.\n"
+#~ "Das OScam Webif ist dann über diesen Port erreichbar.\n"
+#~ "z.B. http:\\IP-DEINER-BOX:83"
+
+#~ msgid "Do you really want to reboot now ?"
+#~ msgstr "Willst Du wirklich neustarten ?"
+
+#~ msgid "Restart"
+#~ msgstr "Neustart"
+
+#~ msgid "All config files are backed up automatically"
+#~ msgstr "Alle  Oscam Einstellungen werden autmatisch gesichert"
+
+#~ msgid "Script SoftCamstart (openMips)"
+#~ msgstr "SoftCamstart auswählen:"
+
+#~ msgid "Python SoftCamstart (openATV)"
+#~ msgstr "SoftCamstart auswählen:"
+
+#~ msgid "/usr/keys/ (openATV)"
+#~ msgstr "SoftCamstart auswählen:"
+
+#~ msgid "/etc/tuxbox/config/ (openMips)"
+#~ msgstr "SoftCamstart auswählen:"
+
+#~ msgid "Do you really want to reboot now?"
+#~ msgstr "Willst Du wirklich neustarten?"
+
+#~ msgid "Restart STB"
+#~ msgstr "STB Neustarten"
+
+#~ msgid "Which Ci+Module is installed:"
+#~ msgstr "Welches Sky CI+ Modul ist installiert :"
+
+#~ msgid "Uninstall all Softcams ?"
+#~ msgstr "Uninstall all Softcams ?"
+
+#~ msgid "make your selection and press GREEN"
+#~ msgstr "Triff deine Auswahl und drück auf Start"
+
+#~ msgid "it is strongly recommended"
+#~ msgstr "das ist empfohlen"
+
+#~ msgid ""
+#~ "Ok Done\n"
+#~ "Oscamsmartcard is now running"
+#~ msgstr "OK erledigt, OScam ist gestartet"
+
+#~ msgid "found installed Softcams to be remove"
+#~ msgstr "installierte Softcams zum entfernen gefunden"
+
+#~ msgid "INFORMATION: "
+#~ msgstr ""
+#~ "INFORMATION: OScam WebifPort auswählen\n"
+#~ "OScam Webif wird auf dem ausgewählten Port aufrufbar sein.\n"
+#~ "z.B. http: IP-DEINER-BOX:83 "
+
+#~ msgid "Warning : "
+#~ msgstr "Warnung"
+
+#~ msgid "CCcam.cfg found. "
+#~ msgstr "CCcam.cfg gefunden"
